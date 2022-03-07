@@ -3,9 +3,7 @@ package Pruebas;
 import java.util.Scanner;
 
 
-getsetters(){
-
-    
+getsetters(){    
 }
 
 public class caiman {
