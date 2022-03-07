@@ -2,6 +2,12 @@ package Pruebas;
 
 import java.util.Scanner;
 
+
+getsetters(){
+
+    
+}
+
 public class caiman {
 
 	public static void main(String[] args) {
