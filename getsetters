@@ -1,0 +1,31 @@
+package Pruebas;
+
+public class getsetters {
+	
+	int k;
+	int p;
+	
+	getsetters(){
+		
+	}
+
+	public int getK() {
+		return k;
+	}
+
+	public void setK(int k) {
+		this.k = k;
+	}
+
+	public int getP() {
+		return p;
+	}
+
+	public void setP(int p) {
+		this.p = p;
+	}
+	
+	
+	
+	
+} 
