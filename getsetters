@@ -2,26 +2,26 @@ package Pruebas;
 
 public class getsetters {
 	
-	int k;
-	int p;
+	char k;
+	char p;
 	
 	getsetters(){
 		
 	}
 
-	public int getK() {
+	public char getK() {
 		return k;
 	}
 
-	public void setK(int k) {
+	public void setK(char k) {
 		this.k = k;
 	}
 
-	public int getP() {
+	public char getP() {
 		return p;
 	}
 
-	public void setP(int p) {
+	public void setP(char p) {
 		this.p = p;
 	}
 	
